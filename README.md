@@ -1,16 +1,24 @@
-### Hi there 👋
+# 🐙
+
+I'm an 
+* Enterpreneur (working on my projects)
+* Musician (check my [soundcloud](https://soundcloud.com/ohld))
+* Blogger ([instagram](https://instagram.com/danokhlopkov), [twitter](https://twitter.com/danokhlopkov), [telegram](https://t.me/danokhlopkov))
+
+[Contact me](https://t.me/okhlopkov/)
 
 <!--
-**ohld/ohld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The question: can I use this comments as keywords to improve the SEO of my profile?
 
-Here are some ideas to get you started:
+Let's try:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Senior Python Full stack developer
+- Data Science Lead 
+- Deep learning expert, 
+- Blockchain enthusiast 
+- The most valuable unit in a team
+- Several Startups Founder
+- Okhlopkov startup raised $100M
+
+Contact me if you read this: danokhlopkov@gmail.com
 -->
