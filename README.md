@@ -1,9 +1,9 @@
 # 🐙
 
 I'm an 
-* Enterpreneur (working on my projects)
+* Enterpreneur (working on [my projects](https://okhlopkov.com))
 * Musician (check my [soundcloud](https://soundcloud.com/ohld))
-* Blogger ([instagram](https://instagram.com/danokhlopkov), [twitter](https://twitter.com/danokhlopkov), [telegram](https://t.me/danokhlopkov))
+* Blogger ([twitter](https://twitter.com/danokhlopkov), [telegram](https://t.me/danokhlopkov))
 
 [Contact me](https://t.me/okhlopkov/)
 
@@ -14,7 +14,8 @@ Let's try:
 
 - Senior Python Full stack developer
 - Data Science Lead 
-- Deep learning expert, 
+- Deep learning expert
+- Kaggle Expert
 - Blockchain enthusiast 
 - The most valuable unit in a team
 - Several Startups Founder
