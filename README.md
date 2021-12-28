@@ -1,11 +1,12 @@
-# 🐙
+# 🐙⛓📦🤓🎸👨‍💻
+
 
 I'm an 
-* Enterpreneur (working on [my projects](https://okhlopkov.com))
+* Enterpreneur (working on [WeBill](https://github.com/webill-io) as a CTO)
+* Data guy (was CDO and Data Lead at B2C with 5M DAU and VC fund)
 * Musician (check my [soundcloud](https://soundcloud.com/ohld))
-* Blogger ([twitter](https://twitter.com/danokhlopkov), [telegram](https://t.me/danokhlopkov))
 
-[Contact me](https://t.me/okhlopkov/)
+*Contact me: [telegram](https://t.me/okhlopkov/) / [twitter](https://twitter.com/danokhlopkov) / [linkedin](https://www.linkedin.com/in/danokhlopkov/) / [okhlopkov.com](https://okhlopkov.com)*
 
 <!--
 The question: can I use this comments as keywords to improve the SEO of my profile?
