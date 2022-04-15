@@ -2,7 +2,7 @@
 
 
 I'm an 
-* Enterpreneur (working on [WeBill](https://github.com/webill-io) as a CTO)
+* Enterpreneur & CTO (Co-Founded [Via Protocol](https://github.com/viaprotocol))
 * Data guy (was CDO and Data Lead at B2C with 5M DAU and VC fund)
 * Musician (check my [soundcloud](https://soundcloud.com/ohld))
 
